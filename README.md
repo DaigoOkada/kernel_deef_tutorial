@@ -3,7 +3,7 @@ kernelDEEF tutorial
 
 ## Description
 
-This is the tutorial page for the submitted paper as follow.
+This is the tutorial page for the paper as follow.
 
 Daigo Okada, Jian Hao Cheng, Cheng Zheng and Ryo Yamada "Data-driven comparison of multiple high-dimensional single cell expression profiles"
 
